@@ -26,3 +26,4 @@ use AJAX to bring data to the page.
 is inventory available, display "Available" and if there isn't, display
 "Sold Out".
 7. Make sure tests pass!
+<p data-visibility='hidden'>PHRG Returning Strings Lab</p>
